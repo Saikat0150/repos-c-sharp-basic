@@ -44,6 +44,7 @@ namespace Abstract_vs_interface
             m.SecondMethod();
 
             Console.WriteLine("-----------------------<Interface>---------------------------");
+            Console.WriteLine("This is small change");
             Add a = new Add();
             Console.WriteLine("Addition of the two numbers is: " + a.DoAdd(45, 35));
             Console.Read();
