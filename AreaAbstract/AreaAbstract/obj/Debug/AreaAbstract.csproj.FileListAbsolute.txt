@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\AreaAbstract\AreaAbstract\bin\Debug\AreaAbstract.exe.config
+C:\Users\saika\source\repos\AreaAbstract\AreaAbstract\bin\Debug\AreaAbstract.exe
+C:\Users\saika\source\repos\AreaAbstract\AreaAbstract\bin\Debug\AreaAbstract.pdb
+C:\Users\saika\source\repos\AreaAbstract\AreaAbstract\obj\Debug\AreaAbstract.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\AreaAbstract\AreaAbstract\obj\Debug\AreaAbstract.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\AreaAbstract\AreaAbstract\obj\Debug\AreaAbstract.exe
+C:\Users\saika\source\repos\AreaAbstract\AreaAbstract\obj\Debug\AreaAbstract.pdb

@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\File Stream Reader Demo\File Stream Reader Demo\bin\Debug\File Stream Reader Demo.exe.config
+C:\Users\saika\source\repos\File Stream Reader Demo\File Stream Reader Demo\bin\Debug\File Stream Reader Demo.exe
+C:\Users\saika\source\repos\File Stream Reader Demo\File Stream Reader Demo\bin\Debug\File Stream Reader Demo.pdb
+C:\Users\saika\source\repos\File Stream Reader Demo\File Stream Reader Demo\obj\Debug\File Stream Reader Demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\File Stream Reader Demo\File Stream Reader Demo\obj\Debug\File Stream Reader Demo.exe
+C:\Users\saika\source\repos\File Stream Reader Demo\File Stream Reader Demo\obj\Debug\File Stream Reader Demo.pdb

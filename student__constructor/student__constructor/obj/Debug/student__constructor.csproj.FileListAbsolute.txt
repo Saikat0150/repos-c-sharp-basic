@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\student__constructor\student__constructor\bin\Debug\student__constructor.exe.config
+C:\Users\saika\source\repos\student__constructor\student__constructor\bin\Debug\student__constructor.exe
+C:\Users\saika\source\repos\student__constructor\student__constructor\bin\Debug\student__constructor.pdb
+C:\Users\saika\source\repos\student__constructor\student__constructor\obj\Debug\student__constructor.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\student__constructor\student__constructor\obj\Debug\student__constructor.exe
+C:\Users\saika\source\repos\student__constructor\student__constructor\obj\Debug\student__constructor.pdb

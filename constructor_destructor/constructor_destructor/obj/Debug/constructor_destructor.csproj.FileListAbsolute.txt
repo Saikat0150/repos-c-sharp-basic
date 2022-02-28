@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\constructor_destructor\constructor_destructor\bin\Debug\constructor_destructor.exe.config
+C:\Users\saika\source\repos\constructor_destructor\constructor_destructor\bin\Debug\constructor_destructor.exe
+C:\Users\saika\source\repos\constructor_destructor\constructor_destructor\bin\Debug\constructor_destructor.pdb
+C:\Users\saika\source\repos\constructor_destructor\constructor_destructor\obj\Debug\constructor_destructor.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\constructor_destructor\constructor_destructor\obj\Debug\constructor_destructor.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\constructor_destructor\constructor_destructor\obj\Debug\constructor_destructor.exe
+C:\Users\saika\source\repos\constructor_destructor\constructor_destructor\obj\Debug\constructor_destructor.pdb

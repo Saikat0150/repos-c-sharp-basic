@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Shape_rectangle\Shape_rectangle\bin\Debug\Shape_rectangle.exe.config
+C:\Users\saika\source\repos\Shape_rectangle\Shape_rectangle\bin\Debug\Shape_rectangle.exe
+C:\Users\saika\source\repos\Shape_rectangle\Shape_rectangle\bin\Debug\Shape_rectangle.pdb
+C:\Users\saika\source\repos\Shape_rectangle\Shape_rectangle\obj\Debug\Shape_rectangle.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Shape_rectangle\Shape_rectangle\obj\Debug\Shape_rectangle.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Shape_rectangle\Shape_rectangle\obj\Debug\Shape_rectangle.exe
+C:\Users\saika\source\repos\Shape_rectangle\Shape_rectangle\obj\Debug\Shape_rectangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\InterfaceAddition\InterfaceAddition\bin\Debug\InterfaceAddition.exe.config
+C:\Users\saika\source\repos\InterfaceAddition\InterfaceAddition\bin\Debug\InterfaceAddition.exe
+C:\Users\saika\source\repos\InterfaceAddition\InterfaceAddition\bin\Debug\InterfaceAddition.pdb
+C:\Users\saika\source\repos\InterfaceAddition\InterfaceAddition\obj\Debug\InterfaceAddition.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\InterfaceAddition\InterfaceAddition\obj\Debug\InterfaceAddition.exe
+C:\Users\saika\source\repos\InterfaceAddition\InterfaceAddition\obj\Debug\InterfaceAddition.pdb

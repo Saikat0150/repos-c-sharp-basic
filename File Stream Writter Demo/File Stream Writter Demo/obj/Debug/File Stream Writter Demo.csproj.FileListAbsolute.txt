@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\File Stream Writter Demo\File Stream Writter Demo\bin\Debug\File Stream Writter Demo.exe.config
+C:\Users\saika\source\repos\File Stream Writter Demo\File Stream Writter Demo\bin\Debug\File Stream Writter Demo.exe
+C:\Users\saika\source\repos\File Stream Writter Demo\File Stream Writter Demo\bin\Debug\File Stream Writter Demo.pdb
+C:\Users\saika\source\repos\File Stream Writter Demo\File Stream Writter Demo\obj\Debug\File Stream Writter Demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\File Stream Writter Demo\File Stream Writter Demo\obj\Debug\File Stream Writter Demo.exe
+C:\Users\saika\source\repos\File Stream Writter Demo\File Stream Writter Demo\obj\Debug\File Stream Writter Demo.pdb

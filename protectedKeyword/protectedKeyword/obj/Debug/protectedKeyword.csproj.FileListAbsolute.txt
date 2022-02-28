@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\protectedKeyword\protectedKeyword\bin\Debug\protectedKeyword.exe.config
+C:\Users\saika\source\repos\protectedKeyword\protectedKeyword\bin\Debug\protectedKeyword.exe
+C:\Users\saika\source\repos\protectedKeyword\protectedKeyword\bin\Debug\protectedKeyword.pdb
+C:\Users\saika\source\repos\protectedKeyword\protectedKeyword\obj\Debug\protectedKeyword.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\protectedKeyword\protectedKeyword\obj\Debug\protectedKeyword.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\protectedKeyword\protectedKeyword\obj\Debug\protectedKeyword.exe
+C:\Users\saika\source\repos\protectedKeyword\protectedKeyword\obj\Debug\protectedKeyword.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pattern", "Number Pattern\Number Pattern.csproj", "{211A22A6-D094-4FB3-8971-78CB2E6F6F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211A22A6-D094-4FB3-8971-78CB2E6F6F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211A22A6-D094-4FB3-8971-78CB2E6F6F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211A22A6-D094-4FB3-8971-78CB2E6F6F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211A22A6-D094-4FB3-8971-78CB2E6F6F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8CF3AB-993D-49A9-97D3-4543A25CC7C4}
+	EndGlobalSection
+EndGlobal

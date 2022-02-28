@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Count all characters from a given string\Count all characters from a given string\bin\Debug\Count all characters from a given string.exe.config
+C:\Users\saika\source\repos\Count all characters from a given string\Count all characters from a given string\bin\Debug\Count all characters from a given string.exe
+C:\Users\saika\source\repos\Count all characters from a given string\Count all characters from a given string\bin\Debug\Count all characters from a given string.pdb
+C:\Users\saika\source\repos\Count all characters from a given string\Count all characters from a given string\obj\Debug\Count all characters from a given string.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Count all characters from a given string\Count all characters from a given string\obj\Debug\Count all characters from a given string.exe
+C:\Users\saika\source\repos\Count all characters from a given string\Count all characters from a given string\obj\Debug\Count all characters from a given string.pdb

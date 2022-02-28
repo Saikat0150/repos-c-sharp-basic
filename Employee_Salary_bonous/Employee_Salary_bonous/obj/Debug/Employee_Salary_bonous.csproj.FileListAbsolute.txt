@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Employee_Salary_bonous\Employee_Salary_bonous\bin\Debug\Employee_Salary_bonous.exe.config
+C:\Users\saika\source\repos\Employee_Salary_bonous\Employee_Salary_bonous\bin\Debug\Employee_Salary_bonous.exe
+C:\Users\saika\source\repos\Employee_Salary_bonous\Employee_Salary_bonous\bin\Debug\Employee_Salary_bonous.pdb
+C:\Users\saika\source\repos\Employee_Salary_bonous\Employee_Salary_bonous\obj\Debug\Employee_Salary_bonous.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Employee_Salary_bonous\Employee_Salary_bonous\obj\Debug\Employee_Salary_bonous.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Employee_Salary_bonous\Employee_Salary_bonous\obj\Debug\Employee_Salary_bonous.exe
+C:\Users\saika\source\repos\Employee_Salary_bonous\Employee_Salary_bonous\obj\Debug\Employee_Salary_bonous.pdb

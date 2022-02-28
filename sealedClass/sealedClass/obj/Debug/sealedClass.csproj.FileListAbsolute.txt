@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\sealedClass\sealedClass\bin\Debug\sealedClass.exe.config
+C:\Users\saika\source\repos\sealedClass\sealedClass\bin\Debug\sealedClass.exe
+C:\Users\saika\source\repos\sealedClass\sealedClass\bin\Debug\sealedClass.pdb
+C:\Users\saika\source\repos\sealedClass\sealedClass\obj\Debug\sealedClass.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\sealedClass\sealedClass\obj\Debug\sealedClass.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\sealedClass\sealedClass\obj\Debug\sealedClass.exe
+C:\Users\saika\source\repos\sealedClass\sealedClass\obj\Debug\sealedClass.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\projectType\projectType\bin\Debug\projectType.exe.config
+C:\Users\saika\source\repos\projectType\projectType\bin\Debug\projectType.exe
+C:\Users\saika\source\repos\projectType\projectType\bin\Debug\projectType.pdb
+C:\Users\saika\source\repos\projectType\projectType\obj\Debug\projectType.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\projectType\projectType\obj\Debug\projectType.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\projectType\projectType\obj\Debug\projectType.exe
+C:\Users\saika\source\repos\projectType\projectType\obj\Debug\projectType.pdb

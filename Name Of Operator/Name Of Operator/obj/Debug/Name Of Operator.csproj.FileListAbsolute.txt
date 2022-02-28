@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Name Of Operator\Name Of Operator\bin\Debug\Name Of Operator.exe.config
+C:\Users\saika\source\repos\Name Of Operator\Name Of Operator\bin\Debug\Name Of Operator.exe
+C:\Users\saika\source\repos\Name Of Operator\Name Of Operator\bin\Debug\Name Of Operator.pdb
+C:\Users\saika\source\repos\Name Of Operator\Name Of Operator\obj\Debug\Name Of Operator.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Name Of Operator\Name Of Operator\obj\Debug\Name Of Operator.exe
+C:\Users\saika\source\repos\Name Of Operator\Name Of Operator\obj\Debug\Name Of Operator.pdb

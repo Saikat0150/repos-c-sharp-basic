@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\addDatetimeMethods\addDatetimeMethods\bin\Debug\addDatetimeMethods.exe.config
+C:\Users\saika\source\repos\addDatetimeMethods\addDatetimeMethods\bin\Debug\addDatetimeMethods.exe
+C:\Users\saika\source\repos\addDatetimeMethods\addDatetimeMethods\bin\Debug\addDatetimeMethods.pdb
+C:\Users\saika\source\repos\addDatetimeMethods\addDatetimeMethods\obj\Debug\addDatetimeMethods.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\addDatetimeMethods\addDatetimeMethods\obj\Debug\addDatetimeMethods.exe
+C:\Users\saika\source\repos\addDatetimeMethods\addDatetimeMethods\obj\Debug\addDatetimeMethods.pdb
+C:\Users\saika\source\repos\addDatetimeMethods\addDatetimeMethods\obj\Debug\addDatetimeMethods.csproj.AssemblyReference.cache

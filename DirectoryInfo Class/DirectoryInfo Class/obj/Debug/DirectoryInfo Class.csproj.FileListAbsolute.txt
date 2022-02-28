@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\DirectoryInfo Class\DirectoryInfo Class\bin\Debug\DirectoryInfo Class.exe.config
+C:\Users\saika\source\repos\DirectoryInfo Class\DirectoryInfo Class\bin\Debug\DirectoryInfo Class.exe
+C:\Users\saika\source\repos\DirectoryInfo Class\DirectoryInfo Class\bin\Debug\DirectoryInfo Class.pdb
+C:\Users\saika\source\repos\DirectoryInfo Class\DirectoryInfo Class\obj\Debug\DirectoryInfo Class.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\DirectoryInfo Class\DirectoryInfo Class\obj\Debug\DirectoryInfo Class.exe
+C:\Users\saika\source\repos\DirectoryInfo Class\DirectoryInfo Class\obj\Debug\DirectoryInfo Class.pdb

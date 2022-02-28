@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\interfaceDay2\interfaceDay2\bin\Debug\interfaceDay2.exe.config
+C:\Users\saika\source\repos\interfaceDay2\interfaceDay2\bin\Debug\interfaceDay2.exe
+C:\Users\saika\source\repos\interfaceDay2\interfaceDay2\bin\Debug\interfaceDay2.pdb
+C:\Users\saika\source\repos\interfaceDay2\interfaceDay2\obj\Debug\interfaceDay2.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\interfaceDay2\interfaceDay2\obj\Debug\interfaceDay2.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\interfaceDay2\interfaceDay2\obj\Debug\interfaceDay2.exe
+C:\Users\saika\source\repos\interfaceDay2\interfaceDay2\obj\Debug\interfaceDay2.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\student_get_set\student_get_set\bin\Debug\student_get_set.exe.config
+C:\Users\saika\source\repos\student_get_set\student_get_set\bin\Debug\student_get_set.exe
+C:\Users\saika\source\repos\student_get_set\student_get_set\bin\Debug\student_get_set.pdb
+C:\Users\saika\source\repos\student_get_set\student_get_set\obj\Debug\student_get_set.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\student_get_set\student_get_set\obj\Debug\student_get_set.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\student_get_set\student_get_set\obj\Debug\student_get_set.exe
+C:\Users\saika\source\repos\student_get_set\student_get_set\obj\Debug\student_get_set.pdb

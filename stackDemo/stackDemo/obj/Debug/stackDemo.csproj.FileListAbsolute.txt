@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\stackDemo\stackDemo\bin\Debug\stackDemo.exe.config
+C:\Users\saika\source\repos\stackDemo\stackDemo\bin\Debug\stackDemo.exe
+C:\Users\saika\source\repos\stackDemo\stackDemo\bin\Debug\stackDemo.pdb
+C:\Users\saika\source\repos\stackDemo\stackDemo\obj\Debug\stackDemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\stackDemo\stackDemo\obj\Debug\stackDemo.exe
+C:\Users\saika\source\repos\stackDemo\stackDemo\obj\Debug\stackDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\referanceparameter\referanceparameter\bin\Debug\referanceparameter.exe.config
+C:\Users\saika\source\repos\referanceparameter\referanceparameter\bin\Debug\referanceparameter.exe
+C:\Users\saika\source\repos\referanceparameter\referanceparameter\bin\Debug\referanceparameter.pdb
+C:\Users\saika\source\repos\referanceparameter\referanceparameter\obj\Debug\referanceparameter.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\referanceparameter\referanceparameter\obj\Debug\referanceparameter.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\referanceparameter\referanceparameter\obj\Debug\referanceparameter.exe
+C:\Users\saika\source\repos\referanceparameter\referanceparameter\obj\Debug\referanceparameter.pdb

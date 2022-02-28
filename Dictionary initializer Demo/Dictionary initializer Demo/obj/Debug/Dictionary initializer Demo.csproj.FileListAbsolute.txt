@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Dictionary initializer Demo\Dictionary initializer Demo\bin\Debug\Dictionary initializer Demo.exe.config
+C:\Users\saika\source\repos\Dictionary initializer Demo\Dictionary initializer Demo\bin\Debug\Dictionary initializer Demo.exe
+C:\Users\saika\source\repos\Dictionary initializer Demo\Dictionary initializer Demo\bin\Debug\Dictionary initializer Demo.pdb
+C:\Users\saika\source\repos\Dictionary initializer Demo\Dictionary initializer Demo\obj\Debug\Dictionary initializer Demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Dictionary initializer Demo\Dictionary initializer Demo\obj\Debug\Dictionary initializer Demo.exe
+C:\Users\saika\source\repos\Dictionary initializer Demo\Dictionary initializer Demo\obj\Debug\Dictionary initializer Demo.pdb

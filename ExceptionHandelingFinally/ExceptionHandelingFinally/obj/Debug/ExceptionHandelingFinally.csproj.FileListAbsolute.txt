@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\ExceptionHandelingFinally\ExceptionHandelingFinally\bin\Debug\ExceptionHandelingFinally.exe.config
+C:\Users\saika\source\repos\ExceptionHandelingFinally\ExceptionHandelingFinally\bin\Debug\ExceptionHandelingFinally.exe
+C:\Users\saika\source\repos\ExceptionHandelingFinally\ExceptionHandelingFinally\bin\Debug\ExceptionHandelingFinally.pdb
+C:\Users\saika\source\repos\ExceptionHandelingFinally\ExceptionHandelingFinally\obj\Debug\ExceptionHandelingFinally.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ExceptionHandelingFinally\ExceptionHandelingFinally\obj\Debug\ExceptionHandelingFinally.exe
+C:\Users\saika\source\repos\ExceptionHandelingFinally\ExceptionHandelingFinally\obj\Debug\ExceptionHandelingFinally.pdb
+C:\Users\saika\source\repos\ExceptionHandelingFinally\ExceptionHandelingFinally\obj\Debug\ExceptionHandelingFinally.csproj.AssemblyReference.cache

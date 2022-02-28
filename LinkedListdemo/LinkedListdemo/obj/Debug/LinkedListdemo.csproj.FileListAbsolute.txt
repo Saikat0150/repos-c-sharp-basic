@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\LinkedListdemo\LinkedListdemo\bin\Debug\LinkedListdemo.exe.config
+C:\Users\saika\source\repos\LinkedListdemo\LinkedListdemo\bin\Debug\LinkedListdemo.exe
+C:\Users\saika\source\repos\LinkedListdemo\LinkedListdemo\bin\Debug\LinkedListdemo.pdb
+C:\Users\saika\source\repos\LinkedListdemo\LinkedListdemo\obj\Debug\LinkedListdemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\LinkedListdemo\LinkedListdemo\obj\Debug\LinkedListdemo.exe
+C:\Users\saika\source\repos\LinkedListdemo\LinkedListdemo\obj\Debug\LinkedListdemo.pdb

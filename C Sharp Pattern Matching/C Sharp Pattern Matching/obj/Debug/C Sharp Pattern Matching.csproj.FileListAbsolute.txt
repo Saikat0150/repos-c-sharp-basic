@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\C Sharp Pattern Matching\C Sharp Pattern Matching\bin\Debug\C Sharp Pattern Matching.exe.config
+C:\Users\saika\source\repos\C Sharp Pattern Matching\C Sharp Pattern Matching\bin\Debug\C Sharp Pattern Matching.exe
+C:\Users\saika\source\repos\C Sharp Pattern Matching\C Sharp Pattern Matching\bin\Debug\C Sharp Pattern Matching.pdb
+C:\Users\saika\source\repos\C Sharp Pattern Matching\C Sharp Pattern Matching\obj\Debug\C Sharp Pattern Matching.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\C Sharp Pattern Matching\C Sharp Pattern Matching\obj\Debug\C Sharp Pattern Matching.exe
+C:\Users\saika\source\repos\C Sharp Pattern Matching\C Sharp Pattern Matching\obj\Debug\C Sharp Pattern Matching.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Multithreading with abort\Multithreading with abort\bin\Debug\Multithreading with abort.exe.config
+C:\Users\saika\source\repos\Multithreading with abort\Multithreading with abort\bin\Debug\Multithreading with abort.exe
+C:\Users\saika\source\repos\Multithreading with abort\Multithreading with abort\bin\Debug\Multithreading with abort.pdb
+C:\Users\saika\source\repos\Multithreading with abort\Multithreading with abort\obj\Debug\Multithreading with abort.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Multithreading with abort\Multithreading with abort\obj\Debug\Multithreading with abort.exe
+C:\Users\saika\source\repos\Multithreading with abort\Multithreading with abort\obj\Debug\Multithreading with abort.pdb
+C:\Users\saika\source\repos\Multithreading with abort\Multithreading with abort\obj\Debug\Multithreading with abort.csproj.AssemblyReference.cache

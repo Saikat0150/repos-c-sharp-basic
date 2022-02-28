@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Deconstruction Demo\Deconstruction Demo\bin\Debug\Deconstruction Demo.exe.config
+C:\Users\saika\source\repos\Deconstruction Demo\Deconstruction Demo\bin\Debug\Deconstruction Demo.exe
+C:\Users\saika\source\repos\Deconstruction Demo\Deconstruction Demo\bin\Debug\Deconstruction Demo.pdb
+C:\Users\saika\source\repos\Deconstruction Demo\Deconstruction Demo\obj\Debug\Deconstruction Demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Deconstruction Demo\Deconstruction Demo\obj\Debug\Deconstruction Demo.exe
+C:\Users\saika\source\repos\Deconstruction Demo\Deconstruction Demo\obj\Debug\Deconstruction Demo.pdb

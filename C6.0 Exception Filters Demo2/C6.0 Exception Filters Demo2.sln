@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C6.0 Exception Filters Demo2", "C6.0 Exception Filters Demo2\C6.0 Exception Filters Demo2.csproj", "{C3FE3EB2-599C-4387-80B4-D9620FD5156C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3FE3EB2-599C-4387-80B4-D9620FD5156C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FE3EB2-599C-4387-80B4-D9620FD5156C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FE3EB2-599C-4387-80B4-D9620FD5156C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FE3EB2-599C-4387-80B4-D9620FD5156C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F42D84-3747-41F3-ACDB-0142DC975E7E}
+	EndGlobalSection
+EndGlobal

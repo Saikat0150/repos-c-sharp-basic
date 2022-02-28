@@ -18,9 +18,7 @@ namespace Using_Multiple_namespace_with_same_class_name
     }
     namespace second_space
     {
-        /// <summary>
-        /// 
-        /// </summary>
+        
         class namespace_cl
         {
             public void func()

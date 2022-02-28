@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\indexer_Demo\indexer_Demo\bin\Debug\indexer_Demo.exe.config
+C:\Users\saika\source\repos\indexer_Demo\indexer_Demo\bin\Debug\indexer_Demo.exe
+C:\Users\saika\source\repos\indexer_Demo\indexer_Demo\bin\Debug\indexer_Demo.pdb
+C:\Users\saika\source\repos\indexer_Demo\indexer_Demo\obj\Debug\indexer_Demo.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\indexer_Demo\indexer_Demo\obj\Debug\indexer_Demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\indexer_Demo\indexer_Demo\obj\Debug\indexer_Demo.exe
+C:\Users\saika\source\repos\indexer_Demo\indexer_Demo\obj\Debug\indexer_Demo.pdb

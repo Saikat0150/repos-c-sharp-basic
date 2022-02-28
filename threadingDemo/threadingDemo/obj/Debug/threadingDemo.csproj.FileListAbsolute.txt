@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\threadingDemo\threadingDemo\bin\Debug\threadingDemo.exe.config
+C:\Users\saika\source\repos\threadingDemo\threadingDemo\bin\Debug\threadingDemo.exe
+C:\Users\saika\source\repos\threadingDemo\threadingDemo\bin\Debug\threadingDemo.pdb
+C:\Users\saika\source\repos\threadingDemo\threadingDemo\obj\Debug\threadingDemo.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\threadingDemo\threadingDemo\obj\Debug\threadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\threadingDemo\threadingDemo\obj\Debug\threadingDemo.exe
+C:\Users\saika\source\repos\threadingDemo\threadingDemo\obj\Debug\threadingDemo.pdb

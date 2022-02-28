@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\RectangleWithThisKeyWord\RectangleWithThisKeyWord\bin\Debug\RectangleWithThisKeyWord.exe.config
+C:\Users\saika\source\repos\RectangleWithThisKeyWord\RectangleWithThisKeyWord\bin\Debug\RectangleWithThisKeyWord.exe
+C:\Users\saika\source\repos\RectangleWithThisKeyWord\RectangleWithThisKeyWord\bin\Debug\RectangleWithThisKeyWord.pdb
+C:\Users\saika\source\repos\RectangleWithThisKeyWord\RectangleWithThisKeyWord\obj\Debug\RectangleWithThisKeyWord.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\RectangleWithThisKeyWord\RectangleWithThisKeyWord\obj\Debug\RectangleWithThisKeyWord.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\RectangleWithThisKeyWord\RectangleWithThisKeyWord\obj\Debug\RectangleWithThisKeyWord.exe
+C:\Users\saika\source\repos\RectangleWithThisKeyWord\RectangleWithThisKeyWord\obj\Debug\RectangleWithThisKeyWord.pdb

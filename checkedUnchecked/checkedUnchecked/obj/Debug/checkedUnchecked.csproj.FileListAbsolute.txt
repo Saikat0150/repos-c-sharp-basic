@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\checkedUnchecked\checkedUnchecked\bin\Debug\checkedUnchecked.exe.config
+C:\Users\saika\source\repos\checkedUnchecked\checkedUnchecked\bin\Debug\checkedUnchecked.exe
+C:\Users\saika\source\repos\checkedUnchecked\checkedUnchecked\bin\Debug\checkedUnchecked.pdb
+C:\Users\saika\source\repos\checkedUnchecked\checkedUnchecked\obj\Debug\checkedUnchecked.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\checkedUnchecked\checkedUnchecked\obj\Debug\checkedUnchecked.exe
+C:\Users\saika\source\repos\checkedUnchecked\checkedUnchecked\obj\Debug\checkedUnchecked.pdb

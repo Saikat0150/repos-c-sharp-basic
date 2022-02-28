@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Add two number using generic and delegates\Add two number using generic and delegates\bin\Debug\Add two number using generic and delegates.exe.config
+C:\Users\saika\source\repos\Add two number using generic and delegates\Add two number using generic and delegates\bin\Debug\Add two number using generic and delegates.exe
+C:\Users\saika\source\repos\Add two number using generic and delegates\Add two number using generic and delegates\bin\Debug\Add two number using generic and delegates.pdb
+C:\Users\saika\source\repos\Add two number using generic and delegates\Add two number using generic and delegates\obj\Debug\Add two number using generic and delegates.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Add two number using generic and delegates\Add two number using generic and delegates\obj\Debug\Add two number using generic and delegates.exe
+C:\Users\saika\source\repos\Add two number using generic and delegates\Add two number using generic and delegates\obj\Debug\Add two number using generic and delegates.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Number Pattern\Number Pattern\bin\Debug\Number Pattern.exe.config
+C:\Users\saika\source\repos\Number Pattern\Number Pattern\bin\Debug\Number Pattern.exe
+C:\Users\saika\source\repos\Number Pattern\Number Pattern\bin\Debug\Number Pattern.pdb
+C:\Users\saika\source\repos\Number Pattern\Number Pattern\obj\Debug\Number Pattern.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Number Pattern\Number Pattern\obj\Debug\Number Pattern.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Number Pattern\Number Pattern\obj\Debug\Number Pattern.exe
+C:\Users\saika\source\repos\Number Pattern\Number Pattern\obj\Debug\Number Pattern.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\nameSpace\nameSpace\bin\Debug\nameSpace.exe.config
+C:\Users\saika\source\repos\nameSpace\nameSpace\bin\Debug\nameSpace.exe
+C:\Users\saika\source\repos\nameSpace\nameSpace\bin\Debug\nameSpace.pdb
+C:\Users\saika\source\repos\nameSpace\nameSpace\obj\Debug\nameSpace.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\nameSpace\nameSpace\obj\Debug\nameSpace.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\nameSpace\nameSpace\obj\Debug\nameSpace.exe
+C:\Users\saika\source\repos\nameSpace\nameSpace\obj\Debug\nameSpace.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\String interpolation\String interpolation\bin\Debug\String interpolation.exe.config
+C:\Users\saika\source\repos\String interpolation\String interpolation\bin\Debug\String interpolation.exe
+C:\Users\saika\source\repos\String interpolation\String interpolation\bin\Debug\String interpolation.pdb
+C:\Users\saika\source\repos\String interpolation\String interpolation\obj\Debug\String interpolation.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\String interpolation\String interpolation\obj\Debug\String interpolation.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\String interpolation\String interpolation\obj\Debug\String interpolation.exe
+C:\Users\saika\source\repos\String interpolation\String interpolation\obj\Debug\String interpolation.pdb

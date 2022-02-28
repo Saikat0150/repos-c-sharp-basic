@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\OOPs2\OOPs2\bin\Debug\OOPs2.exe.config
+C:\Users\saika\source\repos\OOPs2\OOPs2\bin\Debug\OOPs2.exe
+C:\Users\saika\source\repos\OOPs2\OOPs2\bin\Debug\OOPs2.pdb
+C:\Users\saika\source\repos\OOPs2\OOPs2\obj\Debug\OOPs2.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\OOPs2\OOPs2\obj\Debug\OOPs2.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\OOPs2\OOPs2\obj\Debug\OOPs2.exe
+C:\Users\saika\source\repos\OOPs2\OOPs2\obj\Debug\OOPs2.pdb

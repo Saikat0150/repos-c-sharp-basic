@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\ThreadingSynchronisation\ThreadingSynchronisation\bin\Debug\ThreadingSynchronisation.exe.config
+C:\Users\saika\source\repos\ThreadingSynchronisation\ThreadingSynchronisation\bin\Debug\ThreadingSynchronisation.exe
+C:\Users\saika\source\repos\ThreadingSynchronisation\ThreadingSynchronisation\bin\Debug\ThreadingSynchronisation.pdb
+C:\Users\saika\source\repos\ThreadingSynchronisation\ThreadingSynchronisation\obj\Debug\ThreadingSynchronisation.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ThreadingSynchronisation\ThreadingSynchronisation\obj\Debug\ThreadingSynchronisation.exe
+C:\Users\saika\source\repos\ThreadingSynchronisation\ThreadingSynchronisation\obj\Debug\ThreadingSynchronisation.pdb

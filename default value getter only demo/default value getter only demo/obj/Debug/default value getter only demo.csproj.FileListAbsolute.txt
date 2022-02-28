@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\default value getter only demo\default value getter only demo\bin\Debug\default value getter only demo.exe.config
+C:\Users\saika\source\repos\default value getter only demo\default value getter only demo\bin\Debug\default value getter only demo.exe
+C:\Users\saika\source\repos\default value getter only demo\default value getter only demo\bin\Debug\default value getter only demo.pdb
+C:\Users\saika\source\repos\default value getter only demo\default value getter only demo\obj\Debug\default value getter only demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\default value getter only demo\default value getter only demo\obj\Debug\default value getter only demo.exe
+C:\Users\saika\source\repos\default value getter only demo\default value getter only demo\obj\Debug\default value getter only demo.pdb

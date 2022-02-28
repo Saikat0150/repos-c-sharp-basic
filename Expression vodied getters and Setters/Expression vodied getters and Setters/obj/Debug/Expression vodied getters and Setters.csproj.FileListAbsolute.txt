@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Expression vodied getters and Setters\Expression vodied getters and Setters\bin\Debug\Expression vodied getters and Setters.exe.config
+C:\Users\saika\source\repos\Expression vodied getters and Setters\Expression vodied getters and Setters\bin\Debug\Expression vodied getters and Setters.exe
+C:\Users\saika\source\repos\Expression vodied getters and Setters\Expression vodied getters and Setters\bin\Debug\Expression vodied getters and Setters.pdb
+C:\Users\saika\source\repos\Expression vodied getters and Setters\Expression vodied getters and Setters\obj\Debug\Expression vodied getters and Setters.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Expression vodied getters and Setters\Expression vodied getters and Setters\obj\Debug\Expression vodied getters and Setters.exe
+C:\Users\saika\source\repos\Expression vodied getters and Setters\Expression vodied getters and Setters\obj\Debug\Expression vodied getters and Setters.pdb

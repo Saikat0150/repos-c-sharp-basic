@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\new\new\bin\Debug\@new.exe.config
+C:\Users\saika\source\repos\new\new\bin\Debug\@new.exe
+C:\Users\saika\source\repos\new\new\bin\Debug\@new.pdb
+C:\Users\saika\source\repos\new\new\obj\Debug\new.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\new\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\new\new\obj\Debug\@new.exe
+C:\Users\saika\source\repos\new\new\obj\Debug\@new.pdb

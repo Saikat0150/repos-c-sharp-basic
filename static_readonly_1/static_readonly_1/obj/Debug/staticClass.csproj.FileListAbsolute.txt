@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\static_readonly_1\static_readonly_1\bin\Debug\static_readonly_1.exe.config
+C:\Users\saika\source\repos\static_readonly_1\static_readonly_1\bin\Debug\static_readonly_1.exe
+C:\Users\saika\source\repos\static_readonly_1\static_readonly_1\bin\Debug\static_readonly_1.pdb
+C:\Users\saika\source\repos\static_readonly_1\static_readonly_1\obj\Debug\staticClass.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\static_readonly_1\static_readonly_1\obj\Debug\static_readonly_1.exe
+C:\Users\saika\source\repos\static_readonly_1\static_readonly_1\obj\Debug\static_readonly_1.pdb

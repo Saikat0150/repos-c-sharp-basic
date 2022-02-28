@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Tuple Class Example\Tuple Class Example\bin\Debug\Tuple Class Example.exe.config
+C:\Users\saika\source\repos\Tuple Class Example\Tuple Class Example\bin\Debug\Tuple Class Example.exe
+C:\Users\saika\source\repos\Tuple Class Example\Tuple Class Example\bin\Debug\Tuple Class Example.pdb
+C:\Users\saika\source\repos\Tuple Class Example\Tuple Class Example\obj\Debug\Tuple Class Example.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Tuple Class Example\Tuple Class Example\obj\Debug\Tuple Class Example.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Tuple Class Example\Tuple Class Example\obj\Debug\Tuple Class Example.exe
+C:\Users\saika\source\repos\Tuple Class Example\Tuple Class Example\obj\Debug\Tuple Class Example.pdb

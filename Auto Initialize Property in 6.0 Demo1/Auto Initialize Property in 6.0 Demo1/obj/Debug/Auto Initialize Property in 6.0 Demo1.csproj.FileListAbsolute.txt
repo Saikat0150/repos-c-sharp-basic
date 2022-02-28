@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Auto Initialize Property in 6.0 Demo1\Auto Initialize Property in 6.0 Demo1\bin\Debug\Auto Initialize Property in 6.0 Demo1.exe.config
+C:\Users\saika\source\repos\Auto Initialize Property in 6.0 Demo1\Auto Initialize Property in 6.0 Demo1\bin\Debug\Auto Initialize Property in 6.0 Demo1.exe
+C:\Users\saika\source\repos\Auto Initialize Property in 6.0 Demo1\Auto Initialize Property in 6.0 Demo1\bin\Debug\Auto Initialize Property in 6.0 Demo1.pdb
+C:\Users\saika\source\repos\Auto Initialize Property in 6.0 Demo1\Auto Initialize Property in 6.0 Demo1\obj\Debug\Auto Initialize Property in 6.0 Demo1.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Auto Initialize Property in 6.0 Demo1\Auto Initialize Property in 6.0 Demo1\obj\Debug\Auto Initialize Property in 6.0 Demo1.exe
+C:\Users\saika\source\repos\Auto Initialize Property in 6.0 Demo1\Auto Initialize Property in 6.0 Demo1\obj\Debug\Auto Initialize Property in 6.0 Demo1.pdb

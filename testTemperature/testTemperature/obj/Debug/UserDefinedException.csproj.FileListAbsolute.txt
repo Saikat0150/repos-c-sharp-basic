@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\testTemperature\testTemperature\bin\Debug\testTemperature.exe.config
+C:\Users\saika\source\repos\testTemperature\testTemperature\bin\Debug\testTemperature.exe
+C:\Users\saika\source\repos\testTemperature\testTemperature\bin\Debug\testTemperature.pdb
+C:\Users\saika\source\repos\testTemperature\testTemperature\obj\Debug\UserDefinedException.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\testTemperature\testTemperature\obj\Debug\UserDefinedException.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\testTemperature\testTemperature\obj\Debug\testTemperature.exe
+C:\Users\saika\source\repos\testTemperature\testTemperature\obj\Debug\testTemperature.pdb

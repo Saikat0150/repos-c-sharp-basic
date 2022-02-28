@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\lamdaExpression\lamdaExpression\bin\Debug\lamdaExpression.exe.config
+C:\Users\saika\source\repos\lamdaExpression\lamdaExpression\bin\Debug\lamdaExpression.exe
+C:\Users\saika\source\repos\lamdaExpression\lamdaExpression\bin\Debug\lamdaExpression.pdb
+C:\Users\saika\source\repos\lamdaExpression\lamdaExpression\obj\Debug\lamdaExpression.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\lamdaExpression\lamdaExpression\obj\Debug\lamdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\lamdaExpression\lamdaExpression\obj\Debug\lamdaExpression.exe
+C:\Users\saika\source\repos\lamdaExpression\lamdaExpression\obj\Debug\lamdaExpression.pdb

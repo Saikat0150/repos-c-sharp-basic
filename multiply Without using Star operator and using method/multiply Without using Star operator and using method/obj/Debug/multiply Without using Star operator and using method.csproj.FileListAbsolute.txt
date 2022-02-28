@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\multiply Without using Star operator and using method\multiply Without using Star operator and using method\bin\Debug\multiply Without using Star operator and using method.exe.config
+C:\Users\saika\source\repos\multiply Without using Star operator and using method\multiply Without using Star operator and using method\bin\Debug\multiply Without using Star operator and using method.exe
+C:\Users\saika\source\repos\multiply Without using Star operator and using method\multiply Without using Star operator and using method\bin\Debug\multiply Without using Star operator and using method.pdb
+C:\Users\saika\source\repos\multiply Without using Star operator and using method\multiply Without using Star operator and using method\obj\Debug\multiply Without using Star operator and using method.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\multiply Without using Star operator and using method\multiply Without using Star operator and using method\obj\Debug\multiply Without using Star operator and using method.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\multiply Without using Star operator and using method\multiply Without using Star operator and using method\obj\Debug\multiply Without using Star operator and using method.exe
+C:\Users\saika\source\repos\multiply Without using Star operator and using method\multiply Without using Star operator and using method\obj\Debug\multiply Without using Star operator and using method.pdb

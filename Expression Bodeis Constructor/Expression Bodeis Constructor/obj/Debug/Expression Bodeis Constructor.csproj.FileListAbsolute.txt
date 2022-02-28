@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Expression Bodeis Constructor\Expression Bodeis Constructor\bin\Debug\Expression Bodeis Constructor.exe.config
+C:\Users\saika\source\repos\Expression Bodeis Constructor\Expression Bodeis Constructor\bin\Debug\Expression Bodeis Constructor.exe
+C:\Users\saika\source\repos\Expression Bodeis Constructor\Expression Bodeis Constructor\bin\Debug\Expression Bodeis Constructor.pdb
+C:\Users\saika\source\repos\Expression Bodeis Constructor\Expression Bodeis Constructor\obj\Debug\Expression Bodeis Constructor.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Expression Bodeis Constructor\Expression Bodeis Constructor\obj\Debug\Expression Bodeis Constructor.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Expression Bodeis Constructor\Expression Bodeis Constructor\obj\Debug\Expression Bodeis Constructor.exe
+C:\Users\saika\source\repos\Expression Bodeis Constructor\Expression Bodeis Constructor\obj\Debug\Expression Bodeis Constructor.pdb

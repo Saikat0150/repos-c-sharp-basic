@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Name of Operator Demo2\Name of Operator Demo2\obj\Debug\Name of Operator Demo2.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Name of Operator Demo2\Name of Operator Demo2\obj\Debug\Name of Operator Demo2.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Name of Operator Demo2\Name of Operator Demo2\bin\Debug\Name of Operator Demo2.exe.config
+C:\Users\saika\source\repos\Name of Operator Demo2\Name of Operator Demo2\bin\Debug\Name of Operator Demo2.exe
+C:\Users\saika\source\repos\Name of Operator Demo2\Name of Operator Demo2\bin\Debug\Name of Operator Demo2.pdb
+C:\Users\saika\source\repos\Name of Operator Demo2\Name of Operator Demo2\obj\Debug\Name of Operator Demo2.exe
+C:\Users\saika\source\repos\Name of Operator Demo2\Name of Operator Demo2\obj\Debug\Name of Operator Demo2.pdb

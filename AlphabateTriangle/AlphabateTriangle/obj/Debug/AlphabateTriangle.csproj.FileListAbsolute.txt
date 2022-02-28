@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\AlphabateTriangle\AlphabateTriangle\bin\Debug\AlphabateTriangle.exe.config
+C:\Users\saika\source\repos\AlphabateTriangle\AlphabateTriangle\bin\Debug\AlphabateTriangle.exe
+C:\Users\saika\source\repos\AlphabateTriangle\AlphabateTriangle\bin\Debug\AlphabateTriangle.pdb
+C:\Users\saika\source\repos\AlphabateTriangle\AlphabateTriangle\obj\Debug\AlphabateTriangle.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\AlphabateTriangle\AlphabateTriangle\obj\Debug\AlphabateTriangle.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\AlphabateTriangle\AlphabateTriangle\obj\Debug\AlphabateTriangle.exe
+C:\Users\saika\source\repos\AlphabateTriangle\AlphabateTriangle\obj\Debug\AlphabateTriangle.pdb

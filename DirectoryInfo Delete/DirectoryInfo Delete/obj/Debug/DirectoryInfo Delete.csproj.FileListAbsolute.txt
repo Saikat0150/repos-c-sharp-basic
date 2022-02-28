@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\DirectoryInfo Delete\DirectoryInfo Delete\bin\Debug\DirectoryInfo Delete.exe.config
+C:\Users\saika\source\repos\DirectoryInfo Delete\DirectoryInfo Delete\bin\Debug\DirectoryInfo Delete.exe
+C:\Users\saika\source\repos\DirectoryInfo Delete\DirectoryInfo Delete\bin\Debug\DirectoryInfo Delete.pdb
+C:\Users\saika\source\repos\DirectoryInfo Delete\DirectoryInfo Delete\obj\Debug\DirectoryInfo Delete.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\DirectoryInfo Delete\DirectoryInfo Delete\obj\Debug\DirectoryInfo Delete.exe
+C:\Users\saika\source\repos\DirectoryInfo Delete\DirectoryInfo Delete\obj\Debug\DirectoryInfo Delete.pdb

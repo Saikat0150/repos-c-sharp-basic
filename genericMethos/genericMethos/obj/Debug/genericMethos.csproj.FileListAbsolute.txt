@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\genericMethos\genericMethos\bin\Debug\genericMethos.exe.config
+C:\Users\saika\source\repos\genericMethos\genericMethos\bin\Debug\genericMethos.exe
+C:\Users\saika\source\repos\genericMethos\genericMethos\bin\Debug\genericMethos.pdb
+C:\Users\saika\source\repos\genericMethos\genericMethos\obj\Debug\genericMethos.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\genericMethos\genericMethos\obj\Debug\genericMethos.exe
+C:\Users\saika\source\repos\genericMethos\genericMethos\obj\Debug\genericMethos.pdb

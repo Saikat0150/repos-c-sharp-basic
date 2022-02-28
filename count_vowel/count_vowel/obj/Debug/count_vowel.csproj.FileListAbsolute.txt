@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\count_vowel\count_vowel\bin\Debug\count_vowel.exe.config
+C:\Users\saika\source\repos\count_vowel\count_vowel\bin\Debug\count_vowel.exe
+C:\Users\saika\source\repos\count_vowel\count_vowel\bin\Debug\count_vowel.pdb
+C:\Users\saika\source\repos\count_vowel\count_vowel\obj\Debug\count_vowel.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\count_vowel\count_vowel\obj\Debug\count_vowel.exe
+C:\Users\saika\source\repos\count_vowel\count_vowel\obj\Debug\count_vowel.pdb

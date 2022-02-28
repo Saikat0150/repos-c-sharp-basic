@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\SwappingGenericmethods\SwappingGenericmethods\bin\Debug\SwappingGenericmethods.exe.config
+C:\Users\saika\source\repos\SwappingGenericmethods\SwappingGenericmethods\bin\Debug\SwappingGenericmethods.exe
+C:\Users\saika\source\repos\SwappingGenericmethods\SwappingGenericmethods\bin\Debug\SwappingGenericmethods.pdb
+C:\Users\saika\source\repos\SwappingGenericmethods\SwappingGenericmethods\obj\Debug\SwappingGenericmethods.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\SwappingGenericmethods\SwappingGenericmethods\obj\Debug\SwappingGenericmethods.exe
+C:\Users\saika\source\repos\SwappingGenericmethods\SwappingGenericmethods\obj\Debug\SwappingGenericmethods.pdb
+C:\Users\saika\source\repos\SwappingGenericmethods\SwappingGenericmethods\obj\Debug\SwappingGenericmethods.csproj.AssemblyReference.cache

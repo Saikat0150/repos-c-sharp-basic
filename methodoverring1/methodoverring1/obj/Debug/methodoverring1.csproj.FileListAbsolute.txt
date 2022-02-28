@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\methodoverring1\methodoverring1\bin\Debug\methodoverring1.exe.config
+C:\Users\saika\source\repos\methodoverring1\methodoverring1\bin\Debug\methodoverring1.exe
+C:\Users\saika\source\repos\methodoverring1\methodoverring1\bin\Debug\methodoverring1.pdb
+C:\Users\saika\source\repos\methodoverring1\methodoverring1\obj\Debug\methodoverring1.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\methodoverring1\methodoverring1\obj\Debug\methodoverring1.exe
+C:\Users\saika\source\repos\methodoverring1\methodoverring1\obj\Debug\methodoverring1.pdb

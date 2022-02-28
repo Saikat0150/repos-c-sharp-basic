@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Binary Literals\Binary Literals\bin\Debug\Binary Literals.exe.config
+C:\Users\saika\source\repos\Binary Literals\Binary Literals\bin\Debug\Binary Literals.exe
+C:\Users\saika\source\repos\Binary Literals\Binary Literals\bin\Debug\Binary Literals.pdb
+C:\Users\saika\source\repos\Binary Literals\Binary Literals\obj\Debug\Binary Literals.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Binary Literals\Binary Literals\obj\Debug\Binary Literals.exe
+C:\Users\saika\source\repos\Binary Literals\Binary Literals\obj\Debug\Binary Literals.pdb

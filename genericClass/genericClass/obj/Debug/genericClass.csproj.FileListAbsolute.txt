@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\genericClass\genericClass\bin\Debug\genericClass.exe.config
+C:\Users\saika\source\repos\genericClass\genericClass\bin\Debug\genericClass.exe
+C:\Users\saika\source\repos\genericClass\genericClass\bin\Debug\genericClass.pdb
+C:\Users\saika\source\repos\genericClass\genericClass\obj\Debug\genericClass.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\genericClass\genericClass\obj\Debug\genericClass.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\genericClass\genericClass\obj\Debug\genericClass.exe
+C:\Users\saika\source\repos\genericClass\genericClass\obj\Debug\genericClass.pdb

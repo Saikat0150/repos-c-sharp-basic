@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\this_method\this_method\bin\Debug\this_method.exe.config
+C:\Users\saika\source\repos\this_method\this_method\bin\Debug\this_method.exe
+C:\Users\saika\source\repos\this_method\this_method\bin\Debug\this_method.pdb
+C:\Users\saika\source\repos\this_method\this_method\obj\Debug\this_method.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\this_method\this_method\obj\Debug\this_method.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\this_method\this_method\obj\Debug\this_method.exe
+C:\Users\saika\source\repos\this_method\this_method\obj\Debug\this_method.pdb

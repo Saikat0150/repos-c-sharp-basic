@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\SortedListdemo\SortedListdemo\bin\Debug\SortedListdemo.exe.config
+C:\Users\saika\source\repos\SortedListdemo\SortedListdemo\bin\Debug\SortedListdemo.exe
+C:\Users\saika\source\repos\SortedListdemo\SortedListdemo\bin\Debug\SortedListdemo.pdb
+C:\Users\saika\source\repos\SortedListdemo\SortedListdemo\obj\Debug\SortedListdemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\SortedListdemo\SortedListdemo\obj\Debug\SortedListdemo.exe
+C:\Users\saika\source\repos\SortedListdemo\SortedListdemo\obj\Debug\SortedListdemo.pdb

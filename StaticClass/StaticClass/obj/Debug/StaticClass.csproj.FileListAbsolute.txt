@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\StaticClass\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\saika\source\repos\StaticClass\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\saika\source\repos\StaticClass\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\saika\source\repos\StaticClass\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\StaticClass\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\saika\source\repos\StaticClass\StaticClass\obj\Debug\StaticClass.pdb

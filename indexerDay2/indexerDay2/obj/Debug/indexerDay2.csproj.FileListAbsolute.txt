@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\indexerDay2\indexerDay2\bin\Debug\indexerDay2.exe.config
+C:\Users\saika\source\repos\indexerDay2\indexerDay2\bin\Debug\indexerDay2.exe
+C:\Users\saika\source\repos\indexerDay2\indexerDay2\bin\Debug\indexerDay2.pdb
+C:\Users\saika\source\repos\indexerDay2\indexerDay2\obj\Debug\indexerDay2.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\indexerDay2\indexerDay2\obj\Debug\indexerDay2.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\indexerDay2\indexerDay2\obj\Debug\indexerDay2.exe
+C:\Users\saika\source\repos\indexerDay2\indexerDay2\obj\Debug\indexerDay2.pdb

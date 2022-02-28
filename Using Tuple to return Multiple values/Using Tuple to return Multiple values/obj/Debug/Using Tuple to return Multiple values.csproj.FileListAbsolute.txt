@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Using Tuple to return Multiple values\Using Tuple to return Multiple values\bin\Debug\Using Tuple to return Multiple values.exe.config
+C:\Users\saika\source\repos\Using Tuple to return Multiple values\Using Tuple to return Multiple values\bin\Debug\Using Tuple to return Multiple values.exe
+C:\Users\saika\source\repos\Using Tuple to return Multiple values\Using Tuple to return Multiple values\bin\Debug\Using Tuple to return Multiple values.pdb
+C:\Users\saika\source\repos\Using Tuple to return Multiple values\Using Tuple to return Multiple values\obj\Debug\Using Tuple to return Multiple values.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Using Tuple to return Multiple values\Using Tuple to return Multiple values\obj\Debug\Using Tuple to return Multiple values.exe
+C:\Users\saika\source\repos\Using Tuple to return Multiple values\Using Tuple to return Multiple values\obj\Debug\Using Tuple to return Multiple values.pdb

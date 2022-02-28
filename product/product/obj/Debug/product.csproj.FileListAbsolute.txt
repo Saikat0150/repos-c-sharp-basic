@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\product\product\bin\Debug\product.exe.config
+C:\Users\saika\source\repos\product\product\bin\Debug\product.exe
+C:\Users\saika\source\repos\product\product\bin\Debug\product.pdb
+C:\Users\saika\source\repos\product\product\obj\Debug\product.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\product\product\obj\Debug\product.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\product\product\obj\Debug\product.exe
+C:\Users\saika\source\repos\product\product\obj\Debug\product.pdb

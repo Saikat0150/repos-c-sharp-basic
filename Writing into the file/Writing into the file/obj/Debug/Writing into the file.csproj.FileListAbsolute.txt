@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Writing into the file\Writing into the file\bin\Debug\Writing into the file.exe.config
+C:\Users\saika\source\repos\Writing into the file\Writing into the file\bin\Debug\Writing into the file.exe
+C:\Users\saika\source\repos\Writing into the file\Writing into the file\bin\Debug\Writing into the file.pdb
+C:\Users\saika\source\repos\Writing into the file\Writing into the file\obj\Debug\Writing into the file.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Writing into the file\Writing into the file\obj\Debug\Writing into the file.exe
+C:\Users\saika\source\repos\Writing into the file\Writing into the file\obj\Debug\Writing into the file.pdb

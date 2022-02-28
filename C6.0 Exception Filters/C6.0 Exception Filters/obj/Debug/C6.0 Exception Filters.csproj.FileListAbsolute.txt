@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\C6.0 Exception Filters\C6.0 Exception Filters\bin\Debug\C6.0 Exception Filters.exe.config
+C:\Users\saika\source\repos\C6.0 Exception Filters\C6.0 Exception Filters\bin\Debug\C6.0 Exception Filters.exe
+C:\Users\saika\source\repos\C6.0 Exception Filters\C6.0 Exception Filters\bin\Debug\C6.0 Exception Filters.pdb
+C:\Users\saika\source\repos\C6.0 Exception Filters\C6.0 Exception Filters\obj\Debug\C6.0 Exception Filters.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\C6.0 Exception Filters\C6.0 Exception Filters\obj\Debug\C6.0 Exception Filters.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\C6.0 Exception Filters\C6.0 Exception Filters\obj\Debug\C6.0 Exception Filters.exe
+C:\Users\saika\source\repos\C6.0 Exception Filters\C6.0 Exception Filters\obj\Debug\C6.0 Exception Filters.pdb

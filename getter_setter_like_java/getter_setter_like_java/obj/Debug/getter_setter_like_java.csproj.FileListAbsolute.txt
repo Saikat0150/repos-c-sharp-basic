@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\getter_setter_like_java\getter_setter_like_java\bin\Debug\getter_setter_like_java.exe.config
+C:\Users\saika\source\repos\getter_setter_like_java\getter_setter_like_java\bin\Debug\getter_setter_like_java.exe
+C:\Users\saika\source\repos\getter_setter_like_java\getter_setter_like_java\bin\Debug\getter_setter_like_java.pdb
+C:\Users\saika\source\repos\getter_setter_like_java\getter_setter_like_java\obj\Debug\getter_setter_like_java.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\getter_setter_like_java\getter_setter_like_java\obj\Debug\getter_setter_like_java.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\getter_setter_like_java\getter_setter_like_java\obj\Debug\getter_setter_like_java.exe
+C:\Users\saika\source\repos\getter_setter_like_java\getter_setter_like_java\obj\Debug\getter_setter_like_java.pdb

@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\String Writer\String Writer\bin\Debug\String Writer.exe.config
+C:\Users\saika\source\repos\String Writer\String Writer\bin\Debug\String Writer.exe
+C:\Users\saika\source\repos\String Writer\String Writer\bin\Debug\String Writer.pdb
+C:\Users\saika\source\repos\String Writer\String Writer\obj\Debug\File Creation.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\String Writer\String Writer\obj\Debug\String Writer.exe
+C:\Users\saika\source\repos\String Writer\String Writer\obj\Debug\String Writer.pdb

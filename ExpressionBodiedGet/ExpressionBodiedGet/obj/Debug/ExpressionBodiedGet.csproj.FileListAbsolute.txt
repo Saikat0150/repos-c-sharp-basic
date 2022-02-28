@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\ExpressionBodiedGet\ExpressionBodiedGet\bin\Debug\ExpressionBodiedGet.exe.config
+C:\Users\saika\source\repos\ExpressionBodiedGet\ExpressionBodiedGet\bin\Debug\ExpressionBodiedGet.exe
+C:\Users\saika\source\repos\ExpressionBodiedGet\ExpressionBodiedGet\bin\Debug\ExpressionBodiedGet.pdb
+C:\Users\saika\source\repos\ExpressionBodiedGet\ExpressionBodiedGet\obj\Debug\ExpressionBodiedGet.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ExpressionBodiedGet\ExpressionBodiedGet\obj\Debug\ExpressionBodiedGet.exe
+C:\Users\saika\source\repos\ExpressionBodiedGet\ExpressionBodiedGet\obj\Debug\ExpressionBodiedGet.pdb

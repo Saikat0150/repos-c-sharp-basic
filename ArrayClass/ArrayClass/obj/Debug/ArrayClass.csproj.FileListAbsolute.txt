@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\ArrayClass\ArrayClass\bin\Debug\ArrayClass.exe.config
+C:\Users\saika\source\repos\ArrayClass\ArrayClass\bin\Debug\ArrayClass.exe
+C:\Users\saika\source\repos\ArrayClass\ArrayClass\bin\Debug\ArrayClass.pdb
+C:\Users\saika\source\repos\ArrayClass\ArrayClass\obj\Debug\ArrayClass.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\ArrayClass\ArrayClass\obj\Debug\ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ArrayClass\ArrayClass\obj\Debug\ArrayClass.exe
+C:\Users\saika\source\repos\ArrayClass\ArrayClass\obj\Debug\ArrayClass.pdb

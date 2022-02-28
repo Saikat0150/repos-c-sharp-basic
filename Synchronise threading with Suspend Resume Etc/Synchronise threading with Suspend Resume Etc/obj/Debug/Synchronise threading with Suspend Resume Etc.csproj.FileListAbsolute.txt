@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Synchronise threading with Suspend Resume Etc\Synchronise threading with Suspend Resume Etc\bin\Debug\Synchronise threading with Suspend Resume Etc.exe.config
+C:\Users\saika\source\repos\Synchronise threading with Suspend Resume Etc\Synchronise threading with Suspend Resume Etc\bin\Debug\Synchronise threading with Suspend Resume Etc.exe
+C:\Users\saika\source\repos\Synchronise threading with Suspend Resume Etc\Synchronise threading with Suspend Resume Etc\bin\Debug\Synchronise threading with Suspend Resume Etc.pdb
+C:\Users\saika\source\repos\Synchronise threading with Suspend Resume Etc\Synchronise threading with Suspend Resume Etc\obj\Debug\Synchronise threading with Suspend Resume Etc.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Synchronise threading with Suspend Resume Etc\Synchronise threading with Suspend Resume Etc\obj\Debug\Synchronise threading with Suspend Resume Etc.exe
+C:\Users\saika\source\repos\Synchronise threading with Suspend Resume Etc\Synchronise threading with Suspend Resume Etc\obj\Debug\Synchronise threading with Suspend Resume Etc.pdb

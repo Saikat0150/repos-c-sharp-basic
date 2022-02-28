@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\thisKeyword\thisKeyword\bin\Debug\thisKeyword.exe.config
+C:\Users\saika\source\repos\thisKeyword\thisKeyword\bin\Debug\thisKeyword.exe
+C:\Users\saika\source\repos\thisKeyword\thisKeyword\bin\Debug\thisKeyword.pdb
+C:\Users\saika\source\repos\thisKeyword\thisKeyword\obj\Debug\thisKeyword.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\thisKeyword\thisKeyword\obj\Debug\thisKeyword.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\thisKeyword\thisKeyword\obj\Debug\thisKeyword.exe
+C:\Users\saika\source\repos\thisKeyword\thisKeyword\obj\Debug\thisKeyword.pdb

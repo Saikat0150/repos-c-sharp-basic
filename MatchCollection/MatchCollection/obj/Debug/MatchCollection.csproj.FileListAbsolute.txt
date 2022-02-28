@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\MatchCollection\MatchCollection\bin\Debug\MatchCollection.exe.config
+C:\Users\saika\source\repos\MatchCollection\MatchCollection\bin\Debug\MatchCollection.exe
+C:\Users\saika\source\repos\MatchCollection\MatchCollection\bin\Debug\MatchCollection.pdb
+C:\Users\saika\source\repos\MatchCollection\MatchCollection\obj\Debug\MatchCollection.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\MatchCollection\MatchCollection\obj\Debug\MatchCollection.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\MatchCollection\MatchCollection\obj\Debug\MatchCollection.exe
+C:\Users\saika\source\repos\MatchCollection\MatchCollection\obj\Debug\MatchCollection.pdb

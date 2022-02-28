@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\DatetimeDemo\DatetimeDemo\bin\Debug\DatetimeDemo.exe.config
+C:\Users\saika\source\repos\DatetimeDemo\DatetimeDemo\bin\Debug\DatetimeDemo.exe
+C:\Users\saika\source\repos\DatetimeDemo\DatetimeDemo\bin\Debug\DatetimeDemo.pdb
+C:\Users\saika\source\repos\DatetimeDemo\DatetimeDemo\obj\Debug\DatetimeDemo.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\DatetimeDemo\DatetimeDemo\obj\Debug\DatetimeDemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\DatetimeDemo\DatetimeDemo\obj\Debug\DatetimeDemo.exe
+C:\Users\saika\source\repos\DatetimeDemo\DatetimeDemo\obj\Debug\DatetimeDemo.pdb

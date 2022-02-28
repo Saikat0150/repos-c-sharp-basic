@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\hirerchical_inheritance\hirerchical_inheritance\bin\Debug\hirerchical_inheritance.exe.config
+C:\Users\saika\source\repos\hirerchical_inheritance\hirerchical_inheritance\bin\Debug\hirerchical_inheritance.exe
+C:\Users\saika\source\repos\hirerchical_inheritance\hirerchical_inheritance\bin\Debug\hirerchical_inheritance.pdb
+C:\Users\saika\source\repos\hirerchical_inheritance\hirerchical_inheritance\obj\Debug\hirerchical_inheritance.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\hirerchical_inheritance\hirerchical_inheritance\obj\Debug\hirerchical_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\hirerchical_inheritance\hirerchical_inheritance\obj\Debug\hirerchical_inheritance.exe
+C:\Users\saika\source\repos\hirerchical_inheritance\hirerchical_inheritance\obj\Debug\hirerchical_inheritance.pdb

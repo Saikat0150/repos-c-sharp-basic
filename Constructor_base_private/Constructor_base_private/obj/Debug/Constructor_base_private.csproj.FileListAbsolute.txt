@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Constructor_base_private\Constructor_base_private\bin\Debug\Constructor_base_private.exe.config
+C:\Users\saika\source\repos\Constructor_base_private\Constructor_base_private\bin\Debug\Constructor_base_private.exe
+C:\Users\saika\source\repos\Constructor_base_private\Constructor_base_private\bin\Debug\Constructor_base_private.pdb
+C:\Users\saika\source\repos\Constructor_base_private\Constructor_base_private\obj\Debug\Constructor_base_private.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Constructor_base_private\Constructor_base_private\obj\Debug\Constructor_base_private.exe
+C:\Users\saika\source\repos\Constructor_base_private\Constructor_base_private\obj\Debug\Constructor_base_private.pdb

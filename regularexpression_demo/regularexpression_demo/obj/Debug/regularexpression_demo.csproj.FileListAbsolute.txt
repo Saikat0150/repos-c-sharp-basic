@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\regularexpression_demo\regularexpression_demo\bin\Debug\regularexpression_demo.exe.config
+C:\Users\saika\source\repos\regularexpression_demo\regularexpression_demo\bin\Debug\regularexpression_demo.exe
+C:\Users\saika\source\repos\regularexpression_demo\regularexpression_demo\bin\Debug\regularexpression_demo.pdb
+C:\Users\saika\source\repos\regularexpression_demo\regularexpression_demo\obj\Debug\regularexpression_demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\regularexpression_demo\regularexpression_demo\obj\Debug\regularexpression_demo.exe
+C:\Users\saika\source\repos\regularexpression_demo\regularexpression_demo\obj\Debug\regularexpression_demo.pdb

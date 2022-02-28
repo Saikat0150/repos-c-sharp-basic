@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Using Multiple namespace with same class name\Using Multiple namespace with same class name\bin\Debug\Using Multiple namespace with same class name.exe.config
+C:\Users\saika\source\repos\Using Multiple namespace with same class name\Using Multiple namespace with same class name\bin\Debug\Using Multiple namespace with same class name.exe
+C:\Users\saika\source\repos\Using Multiple namespace with same class name\Using Multiple namespace with same class name\bin\Debug\Using Multiple namespace with same class name.pdb
+C:\Users\saika\source\repos\Using Multiple namespace with same class name\Using Multiple namespace with same class name\obj\Debug\Using Multiple namespace with same class name.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Using Multiple namespace with same class name\Using Multiple namespace with same class name\obj\Debug\Using Multiple namespace with same class name.exe
+C:\Users\saika\source\repos\Using Multiple namespace with same class name\Using Multiple namespace with same class name\obj\Debug\Using Multiple namespace with same class name.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\multidimentionalArray\multidimentionalArray\obj\Debug\multidimentionalArray.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\multidimentionalArray\multidimentionalArray\obj\Debug\multidimentionalArray.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\multidimentionalArray\multidimentionalArray\bin\Debug\multidimentionalArray.exe.config
+C:\Users\saika\source\repos\multidimentionalArray\multidimentionalArray\bin\Debug\multidimentionalArray.exe
+C:\Users\saika\source\repos\multidimentionalArray\multidimentionalArray\bin\Debug\multidimentionalArray.pdb
+C:\Users\saika\source\repos\multidimentionalArray\multidimentionalArray\obj\Debug\multidimentionalArray.exe
+C:\Users\saika\source\repos\multidimentionalArray\multidimentionalArray\obj\Debug\multidimentionalArray.pdb

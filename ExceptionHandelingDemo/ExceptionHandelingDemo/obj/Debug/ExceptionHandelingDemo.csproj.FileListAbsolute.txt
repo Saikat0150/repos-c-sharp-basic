@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\ExceptionHandelingDemo\ExceptionHandelingDemo\bin\Debug\ExceptionHandelingDemo.exe.config
+C:\Users\saika\source\repos\ExceptionHandelingDemo\ExceptionHandelingDemo\bin\Debug\ExceptionHandelingDemo.exe
+C:\Users\saika\source\repos\ExceptionHandelingDemo\ExceptionHandelingDemo\bin\Debug\ExceptionHandelingDemo.pdb
+C:\Users\saika\source\repos\ExceptionHandelingDemo\ExceptionHandelingDemo\obj\Debug\ExceptionHandelingDemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ExceptionHandelingDemo\ExceptionHandelingDemo\obj\Debug\ExceptionHandelingDemo.exe
+C:\Users\saika\source\repos\ExceptionHandelingDemo\ExceptionHandelingDemo\obj\Debug\ExceptionHandelingDemo.pdb

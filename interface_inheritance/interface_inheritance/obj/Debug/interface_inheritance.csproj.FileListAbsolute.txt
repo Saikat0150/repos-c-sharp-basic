@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\interface_inheritance\interface_inheritance\obj\Debug\interface_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\interface_inheritance\interface_inheritance\bin\Debug\interface_inheritance.exe.config
+C:\Users\saika\source\repos\interface_inheritance\interface_inheritance\bin\Debug\interface_inheritance.exe
+C:\Users\saika\source\repos\interface_inheritance\interface_inheritance\bin\Debug\interface_inheritance.pdb
+C:\Users\saika\source\repos\interface_inheritance\interface_inheritance\obj\Debug\interface_inheritance.exe
+C:\Users\saika\source\repos\interface_inheritance\interface_inheritance\obj\Debug\interface_inheritance.pdb

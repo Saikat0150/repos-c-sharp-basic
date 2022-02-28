@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\AnonimousMethod\AnonimousMethod\bin\Debug\AnonimousMethod.exe.config
+C:\Users\saika\source\repos\AnonimousMethod\AnonimousMethod\bin\Debug\AnonimousMethod.exe
+C:\Users\saika\source\repos\AnonimousMethod\AnonimousMethod\bin\Debug\AnonimousMethod.pdb
+C:\Users\saika\source\repos\AnonimousMethod\AnonimousMethod\obj\Debug\AnonimousMethod.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\AnonimousMethod\AnonimousMethod\obj\Debug\AnonimousMethod.exe
+C:\Users\saika\source\repos\AnonimousMethod\AnonimousMethod\obj\Debug\AnonimousMethod.pdb

@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Reading Data from file using StreamReader\Reading Data from file using StreamReader\bin\Debug\Reading Data from file using StreamReader.exe.config
+C:\Users\saika\source\repos\Reading Data from file using StreamReader\Reading Data from file using StreamReader\bin\Debug\Reading Data from file using StreamReader.exe
+C:\Users\saika\source\repos\Reading Data from file using StreamReader\Reading Data from file using StreamReader\bin\Debug\Reading Data from file using StreamReader.pdb
+C:\Users\saika\source\repos\Reading Data from file using StreamReader\Reading Data from file using StreamReader\obj\Debug\Reading Data from file using StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Reading Data from file using StreamReader\Reading Data from file using StreamReader\obj\Debug\Reading Data from file using StreamReader.exe
+C:\Users\saika\source\repos\Reading Data from file using StreamReader\Reading Data from file using StreamReader\obj\Debug\Reading Data from file using StreamReader.pdb

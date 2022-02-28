@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Employee_get_set\Employee_get_set\bin\Debug\Employee_get_set.exe.config
+C:\Users\saika\source\repos\Employee_get_set\Employee_get_set\bin\Debug\Employee_get_set.exe
+C:\Users\saika\source\repos\Employee_get_set\Employee_get_set\bin\Debug\Employee_get_set.pdb
+C:\Users\saika\source\repos\Employee_get_set\Employee_get_set\obj\Debug\Employee_get_set.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Employee_get_set\Employee_get_set\obj\Debug\Employee_get_set.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Employee_get_set\Employee_get_set\obj\Debug\Employee_get_set.exe
+C:\Users\saika\source\repos\Employee_get_set\Employee_get_set\obj\Debug\Employee_get_set.pdb

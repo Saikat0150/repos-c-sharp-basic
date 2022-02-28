@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Binary Writer Demo\Binary Writer Demo\bin\Debug\Binary Writer Demo.exe.config
+C:\Users\saika\source\repos\Binary Writer Demo\Binary Writer Demo\bin\Debug\Binary Writer Demo.exe
+C:\Users\saika\source\repos\Binary Writer Demo\Binary Writer Demo\bin\Debug\Binary Writer Demo.pdb
+C:\Users\saika\source\repos\Binary Writer Demo\Binary Writer Demo\obj\Debug\Binary Writer Demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Binary Writer Demo\Binary Writer Demo\obj\Debug\Binary Writer Demo.exe
+C:\Users\saika\source\repos\Binary Writer Demo\Binary Writer Demo\obj\Debug\Binary Writer Demo.pdb

@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Ref Local\Ref Local\bin\Debug\Ref Local.exe.config
+C:\Users\saika\source\repos\Ref Local\Ref Local\bin\Debug\Ref Local.exe
+C:\Users\saika\source\repos\Ref Local\Ref Local\bin\Debug\Ref Local.pdb
+C:\Users\saika\source\repos\Ref Local\Ref Local\obj\Debug\Ref Local.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Ref Local\Ref Local\obj\Debug\Ref Local.exe
+C:\Users\saika\source\repos\Ref Local\Ref Local\obj\Debug\Ref Local.pdb

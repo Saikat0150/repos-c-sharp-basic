@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\String_Palindrom\String_Palindrom\bin\Debug\String_Palindrom.exe.config
+C:\Users\saika\source\repos\String_Palindrom\String_Palindrom\bin\Debug\String_Palindrom.exe
+C:\Users\saika\source\repos\String_Palindrom\String_Palindrom\bin\Debug\String_Palindrom.pdb
+C:\Users\saika\source\repos\String_Palindrom\String_Palindrom\obj\Debug\String_Palindrom.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\String_Palindrom\String_Palindrom\obj\Debug\String_Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\String_Palindrom\String_Palindrom\obj\Debug\String_Palindrom.exe
+C:\Users\saika\source\repos\String_Palindrom\String_Palindrom\obj\Debug\String_Palindrom.pdb

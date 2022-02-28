@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\ExpressionBodiedMembersExample\ExpressionBodiedMembersExample\bin\Debug\ExpressionBodiedMembersExample.exe.config
+C:\Users\saika\source\repos\ExpressionBodiedMembersExample\ExpressionBodiedMembersExample\bin\Debug\ExpressionBodiedMembersExample.exe
+C:\Users\saika\source\repos\ExpressionBodiedMembersExample\ExpressionBodiedMembersExample\bin\Debug\ExpressionBodiedMembersExample.pdb
+C:\Users\saika\source\repos\ExpressionBodiedMembersExample\ExpressionBodiedMembersExample\obj\Debug\ExpressionBodiedMembersExample.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\ExpressionBodiedMembersExample\ExpressionBodiedMembersExample\obj\Debug\ExpressionBodiedMembersExample.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ExpressionBodiedMembersExample\ExpressionBodiedMembersExample\obj\Debug\ExpressionBodiedMembersExample.exe
+C:\Users\saika\source\repos\ExpressionBodiedMembersExample\ExpressionBodiedMembersExample\obj\Debug\ExpressionBodiedMembersExample.pdb

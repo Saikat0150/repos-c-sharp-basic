@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\ThreadingNameProperty\ThreadingNameProperty\bin\Debug\ThreadingNameProperty.exe.config
+C:\Users\saika\source\repos\ThreadingNameProperty\ThreadingNameProperty\bin\Debug\ThreadingNameProperty.exe
+C:\Users\saika\source\repos\ThreadingNameProperty\ThreadingNameProperty\bin\Debug\ThreadingNameProperty.pdb
+C:\Users\saika\source\repos\ThreadingNameProperty\ThreadingNameProperty\obj\Debug\ThreadingNameProperty.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ThreadingNameProperty\ThreadingNameProperty\obj\Debug\ThreadingNameProperty.exe
+C:\Users\saika\source\repos\ThreadingNameProperty\ThreadingNameProperty\obj\Debug\ThreadingNameProperty.pdb

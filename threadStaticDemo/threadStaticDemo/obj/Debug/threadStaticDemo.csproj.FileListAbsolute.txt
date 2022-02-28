@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\threadStaticDemo\threadStaticDemo\bin\Debug\threadStaticDemo.exe.config
+C:\Users\saika\source\repos\threadStaticDemo\threadStaticDemo\bin\Debug\threadStaticDemo.exe
+C:\Users\saika\source\repos\threadStaticDemo\threadStaticDemo\bin\Debug\threadStaticDemo.pdb
+C:\Users\saika\source\repos\threadStaticDemo\threadStaticDemo\obj\Debug\threadStaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\threadStaticDemo\threadStaticDemo\obj\Debug\threadStaticDemo.exe
+C:\Users\saika\source\repos\threadStaticDemo\threadStaticDemo\obj\Debug\threadStaticDemo.pdb

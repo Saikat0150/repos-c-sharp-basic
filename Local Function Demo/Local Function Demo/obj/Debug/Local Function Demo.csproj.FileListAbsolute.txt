@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Local Function Demo\Local Function Demo\bin\Debug\Local Function Demo.exe.config
+C:\Users\saika\source\repos\Local Function Demo\Local Function Demo\bin\Debug\Local Function Demo.exe
+C:\Users\saika\source\repos\Local Function Demo\Local Function Demo\bin\Debug\Local Function Demo.pdb
+C:\Users\saika\source\repos\Local Function Demo\Local Function Demo\obj\Debug\Local Function Demo.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Local Function Demo\Local Function Demo\obj\Debug\Local Function Demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Local Function Demo\Local Function Demo\obj\Debug\Local Function Demo.exe
+C:\Users\saika\source\repos\Local Function Demo\Local Function Demo\obj\Debug\Local Function Demo.pdb

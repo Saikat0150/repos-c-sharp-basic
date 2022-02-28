@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\newFeature\newFeature\bin\Debug\newFeature.exe.config
+C:\Users\saika\source\repos\newFeature\newFeature\bin\Debug\newFeature.exe
+C:\Users\saika\source\repos\newFeature\newFeature\bin\Debug\newFeature.pdb
+C:\Users\saika\source\repos\newFeature\newFeature\obj\Debug\newFeature.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\newFeature\newFeature\obj\Debug\newFeature.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\newFeature\newFeature\obj\Debug\newFeature.exe
+C:\Users\saika\source\repos\newFeature\newFeature\obj\Debug\newFeature.pdb

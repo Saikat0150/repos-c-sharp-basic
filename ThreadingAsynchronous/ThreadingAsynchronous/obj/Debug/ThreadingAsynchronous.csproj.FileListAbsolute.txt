@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\ThreadingAsynchronous\ThreadingAsynchronous\bin\Debug\ThreadingAsynchronous.exe.config
+C:\Users\saika\source\repos\ThreadingAsynchronous\ThreadingAsynchronous\bin\Debug\ThreadingAsynchronous.exe
+C:\Users\saika\source\repos\ThreadingAsynchronous\ThreadingAsynchronous\bin\Debug\ThreadingAsynchronous.pdb
+C:\Users\saika\source\repos\ThreadingAsynchronous\ThreadingAsynchronous\obj\Debug\ThreadingAsynchronous.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ThreadingAsynchronous\ThreadingAsynchronous\obj\Debug\ThreadingAsynchronous.exe
+C:\Users\saika\source\repos\ThreadingAsynchronous\ThreadingAsynchronous\obj\Debug\ThreadingAsynchronous.pdb

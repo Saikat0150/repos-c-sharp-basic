@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\outKeyword\outKeyword\bin\Debug\outKeyword.exe.config
+C:\Users\saika\source\repos\outKeyword\outKeyword\bin\Debug\outKeyword.exe
+C:\Users\saika\source\repos\outKeyword\outKeyword\bin\Debug\outKeyword.pdb
+C:\Users\saika\source\repos\outKeyword\outKeyword\obj\Debug\outKeyword.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\outKeyword\outKeyword\obj\Debug\outKeyword.exe
+C:\Users\saika\source\repos\outKeyword\outKeyword\obj\Debug\outKeyword.pdb

@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\File demo\File demo\bin\Debug\File demo.exe.config
+C:\Users\saika\source\repos\File demo\File demo\bin\Debug\File demo.exe
+C:\Users\saika\source\repos\File demo\File demo\bin\Debug\File demo.pdb
+C:\Users\saika\source\repos\File demo\File demo\obj\Debug\FileWrite demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\File demo\File demo\obj\Debug\File demo.exe
+C:\Users\saika\source\repos\File demo\File demo\obj\Debug\File demo.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Deserialization Demo\Deserialization Demo\bin\Debug\Deserialization Demo.exe.config
+C:\Users\saika\source\repos\Deserialization Demo\Deserialization Demo\bin\Debug\Deserialization Demo.exe
+C:\Users\saika\source\repos\Deserialization Demo\Deserialization Demo\bin\Debug\Deserialization Demo.pdb
+C:\Users\saika\source\repos\Deserialization Demo\Deserialization Demo\obj\Debug\Deserialization Demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Deserialization Demo\Deserialization Demo\obj\Debug\Deserialization Demo.exe
+C:\Users\saika\source\repos\Deserialization Demo\Deserialization Demo\obj\Debug\Deserialization Demo.pdb
+C:\Users\saika\source\repos\Deserialization Demo\Deserialization Demo\obj\Debug\Deserialization Demo.csproj.AssemblyReference.cache

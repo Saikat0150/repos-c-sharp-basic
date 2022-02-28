@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\convert_perse\convert_perse\obj\Debug\convert_perse.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\convert_perse\convert_perse\obj\Debug\convert_perse.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\convert_perse\convert_perse\bin\Debug\convert_perse.exe.config
+C:\Users\saika\source\repos\convert_perse\convert_perse\bin\Debug\convert_perse.exe
+C:\Users\saika\source\repos\convert_perse\convert_perse\bin\Debug\convert_perse.pdb
+C:\Users\saika\source\repos\convert_perse\convert_perse\obj\Debug\convert_perse.exe
+C:\Users\saika\source\repos\convert_perse\convert_perse\obj\Debug\convert_perse.pdb

@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\treadDemo\treadDemo\bin\Debug\treadDemo.exe.config
+C:\Users\saika\source\repos\treadDemo\treadDemo\bin\Debug\treadDemo.exe
+C:\Users\saika\source\repos\treadDemo\treadDemo\bin\Debug\treadDemo.pdb
+C:\Users\saika\source\repos\treadDemo\treadDemo\obj\Debug\treadDemo.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\treadDemo\treadDemo\obj\Debug\treadDemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\treadDemo\treadDemo\obj\Debug\treadDemo.exe
+C:\Users\saika\source\repos\treadDemo\treadDemo\obj\Debug\treadDemo.pdb

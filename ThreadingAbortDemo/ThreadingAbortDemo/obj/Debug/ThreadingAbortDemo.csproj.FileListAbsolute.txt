@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\ThreadingAbortDemo\ThreadingAbortDemo\bin\Debug\ThreadingAbortDemo.exe.config
+C:\Users\saika\source\repos\ThreadingAbortDemo\ThreadingAbortDemo\bin\Debug\ThreadingAbortDemo.exe
+C:\Users\saika\source\repos\ThreadingAbortDemo\ThreadingAbortDemo\bin\Debug\ThreadingAbortDemo.pdb
+C:\Users\saika\source\repos\ThreadingAbortDemo\ThreadingAbortDemo\obj\Debug\ThreadingAbortDemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ThreadingAbortDemo\ThreadingAbortDemo\obj\Debug\ThreadingAbortDemo.exe
+C:\Users\saika\source\repos\ThreadingAbortDemo\ThreadingAbortDemo\obj\Debug\ThreadingAbortDemo.pdb
+C:\Users\saika\source\repos\ThreadingAbortDemo\ThreadingAbortDemo\obj\Debug\ThreadingAbortDemo.csproj.AssemblyReference.cache

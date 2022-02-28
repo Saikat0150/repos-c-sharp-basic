@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\structure1\structure1\bin\Debug\structure1.exe.config
+C:\Users\saika\source\repos\structure1\structure1\bin\Debug\structure1.exe
+C:\Users\saika\source\repos\structure1\structure1\bin\Debug\structure1.pdb
+C:\Users\saika\source\repos\structure1\structure1\obj\Debug\structure1.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\structure1\structure1\obj\Debug\structure1.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\structure1\structure1\obj\Debug\structure1.exe
+C:\Users\saika\source\repos\structure1\structure1\obj\Debug\structure1.pdb

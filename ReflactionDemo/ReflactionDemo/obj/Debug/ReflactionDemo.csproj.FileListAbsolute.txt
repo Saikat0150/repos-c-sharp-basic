@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\ReflactionDemo\ReflactionDemo\bin\Debug\ReflactionDemo.exe.config
+C:\Users\saika\source\repos\ReflactionDemo\ReflactionDemo\bin\Debug\ReflactionDemo.exe
+C:\Users\saika\source\repos\ReflactionDemo\ReflactionDemo\bin\Debug\ReflactionDemo.pdb
+C:\Users\saika\source\repos\ReflactionDemo\ReflactionDemo\obj\Debug\ReflactionDemo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\ReflactionDemo\ReflactionDemo\obj\Debug\ReflactionDemo.exe
+C:\Users\saika\source\repos\ReflactionDemo\ReflactionDemo\obj\Debug\ReflactionDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Pattern Matching Switch Statement\Pattern Matching Switch Statement\obj\Debug\Pattern Matching Switch Statement.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Pattern Matching Switch Statement\Pattern Matching Switch Statement\bin\Debug\Pattern Matching Switch Statement.exe.config
+C:\Users\saika\source\repos\Pattern Matching Switch Statement\Pattern Matching Switch Statement\bin\Debug\Pattern Matching Switch Statement.exe
+C:\Users\saika\source\repos\Pattern Matching Switch Statement\Pattern Matching Switch Statement\bin\Debug\Pattern Matching Switch Statement.pdb
+C:\Users\saika\source\repos\Pattern Matching Switch Statement\Pattern Matching Switch Statement\obj\Debug\Pattern Matching Switch Statement.exe
+C:\Users\saika\source\repos\Pattern Matching Switch Statement\Pattern Matching Switch Statement\obj\Debug\Pattern Matching Switch Statement.pdb

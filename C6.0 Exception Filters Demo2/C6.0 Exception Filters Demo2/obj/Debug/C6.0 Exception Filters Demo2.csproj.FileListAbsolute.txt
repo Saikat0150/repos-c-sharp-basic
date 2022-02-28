@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\C6.0 Exception Filters Demo2\C6.0 Exception Filters Demo2\bin\Debug\C6.0 Exception Filters Demo2.exe.config
+C:\Users\saika\source\repos\C6.0 Exception Filters Demo2\C6.0 Exception Filters Demo2\bin\Debug\C6.0 Exception Filters Demo2.exe
+C:\Users\saika\source\repos\C6.0 Exception Filters Demo2\C6.0 Exception Filters Demo2\bin\Debug\C6.0 Exception Filters Demo2.pdb
+C:\Users\saika\source\repos\C6.0 Exception Filters Demo2\C6.0 Exception Filters Demo2\obj\Debug\C6.0 Exception Filters Demo2.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\C6.0 Exception Filters Demo2\C6.0 Exception Filters Demo2\obj\Debug\C6.0 Exception Filters Demo2.exe
+C:\Users\saika\source\repos\C6.0 Exception Filters Demo2\C6.0 Exception Filters Demo2\obj\Debug\C6.0 Exception Filters Demo2.pdb

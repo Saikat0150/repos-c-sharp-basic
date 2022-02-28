@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Multiple namespace with same class name", "Using Multiple namespace with same class name\Using Multiple namespace with same class name.csproj", "{B34AAE6B-483B-469C-93E9-5ED21AC2BA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34AAE6B-483B-469C-93E9-5ED21AC2BA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34AAE6B-483B-469C-93E9-5ED21AC2BA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34AAE6B-483B-469C-93E9-5ED21AC2BA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34AAE6B-483B-469C-93E9-5ED21AC2BA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48EB5E3-E2DB-40E2-A830-2AE4E3C3EB9E}
+	EndGlobalSection
+EndGlobal

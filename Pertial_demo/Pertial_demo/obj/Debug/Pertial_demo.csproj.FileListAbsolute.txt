@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Pertial_demo\Pertial_demo\bin\Debug\Pertial_demo.exe.config
+C:\Users\saika\source\repos\Pertial_demo\Pertial_demo\bin\Debug\Pertial_demo.exe
+C:\Users\saika\source\repos\Pertial_demo\Pertial_demo\bin\Debug\Pertial_demo.pdb
+C:\Users\saika\source\repos\Pertial_demo\Pertial_demo\obj\Debug\Pertial_demo.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Pertial_demo\Pertial_demo\obj\Debug\Pertial_demo.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Pertial_demo\Pertial_demo\obj\Debug\Pertial_demo.exe
+C:\Users\saika\source\repos\Pertial_demo\Pertial_demo\obj\Debug\Pertial_demo.pdb

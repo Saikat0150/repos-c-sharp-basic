@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\InterFace_Date_Time\InterFace_Date_Time\bin\Debug\InterFace_Date_Time.exe.config
+C:\Users\saika\source\repos\InterFace_Date_Time\InterFace_Date_Time\bin\Debug\InterFace_Date_Time.exe
+C:\Users\saika\source\repos\InterFace_Date_Time\InterFace_Date_Time\bin\Debug\InterFace_Date_Time.pdb
+C:\Users\saika\source\repos\InterFace_Date_Time\InterFace_Date_Time\obj\Debug\InterFace_Date_Time.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\InterFace_Date_Time\InterFace_Date_Time\obj\Debug\InterFace_Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\InterFace_Date_Time\InterFace_Date_Time\obj\Debug\InterFace_Date_Time.exe
+C:\Users\saika\source\repos\InterFace_Date_Time\InterFace_Date_Time\obj\Debug\InterFace_Date_Time.pdb
