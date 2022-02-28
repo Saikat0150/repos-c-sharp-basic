@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Abstract vs interface\Abstract vs interface\bin\Debug\Abstract vs interface.exe.config
+C:\Users\saika\source\repos\Abstract vs interface\Abstract vs interface\bin\Debug\Abstract vs interface.exe
+C:\Users\saika\source\repos\Abstract vs interface\Abstract vs interface\bin\Debug\Abstract vs interface.pdb
+C:\Users\saika\source\repos\Abstract vs interface\Abstract vs interface\obj\Debug\Abstract vs interface.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Abstract vs interface\Abstract vs interface\obj\Debug\Abstract vs interface.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Abstract vs interface\Abstract vs interface\obj\Debug\Abstract vs interface.exe
+C:\Users\saika\source\repos\Abstract vs interface\Abstract vs interface\obj\Debug\Abstract vs interface.pdb
