@@ -11,6 +11,7 @@ namespace new_for_git
         static void Main(string[] args)
         {
             Console.WriteLine("For git practice");
+            Console.ReadLine();
         }
     }
 }
